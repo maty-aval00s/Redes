@@ -1,5 +1,5 @@
 import socket
-from T4.socketTCP import SocketTCP
+from socketTCP import SocketTCP
 
 ESCUCHA = 8000
 
